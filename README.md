@@ -1,2 +1,3 @@
 # codehelp-demo
-This is my first practice Git Repository.
+This is my first practice Git Repository. Author - Romi Mawandia
+
